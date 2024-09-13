@@ -47,7 +47,7 @@ A brief description of this project, what problem it solves, and any notable tec
 
 - [LinkedIn](your-linkedin-profile)
 - [Twitter](your-twitter-profile)
-- [Medium]([your-medium-profile](https://medium.com/@vihangamallawaarachchi.dev))
+- [Medium](https://medium.com/@vihangamallawaarachchi.dev)
 - [Portfolio/Website](your-portfolio-website)
 
 ## 📧 Contact
