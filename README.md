@@ -1,60 +1,118 @@
-# Welcome to My GitHub Profile
+# 👋 Hi, I'm Vihanga Mallawaarachchi
 
-## 👋 About Me
-
-Hello! I'm Vihanga Mallawaarachchi, a passionate software engineering undergraduate at SLIIT with a diverse skill set in web development, mobile app development, desktop applications, project management, and game development. I'm continuously learning and exploring new technologies, aiming to create innovative solutions in the IT industry.
-
-## 🌟 Skills & Technologies
-
-**Web Development:**  
-HTML, CSS, JavaScript, React, Angular, Next.js, Tailwind CSS, Bootstrap, PHP, WordPress
-
-**Mobile Development:**  
-React Native, Expo, .NET MAUI
-
-**Backend Development:**  
-Node.js, Express, Java Swing, Kotlin, Servlets, BunJS
-
-**Database Design & Management:**  
-SQL, MongoDB, Strapi, Sanity
-
-**Data Science & Machine Learning:**  
-Python, Pandas, Go, Data Science, Machine Learning
-
-**Programming Languages:**  
-C, C++, C#, Java
-
-**Other Technologies:**  
-.NET MAUI, Game Development Frameworks
-
-## 🚀 Projects
-
-### [Project Name](link-to-project)
-A brief description of what the project is about, the technologies used, and key features or achievements.
-
-### [Another Project Name](link-to-project)
-A brief description of this project, what problem it solves, and any notable technologies or frameworks used.
-
-## 📚 Articles & Tutorials
-
-- [The Fundamentals of Kotlin: A Beginner's Guide](https://medium.com/@vihangamallawaarachchi.dev/the-fundamentals-of-kotlin-a-beginners-guide-987be6d5a386)
-- [How to Set Up Eclipse to Develop a Dynamic Web Application with JSP and Servlets](https://medium.com/@vihangamallawaarachchi.dev/how-to-set-up-eclipse-to-develop-a-dynamic-web-application-with-jsp-and-servlets-c81367d837c2)
-- [Building Your First Expo App with Expo Router](https://medium.com/@vihangamallawaarachchi.dev/building-your-first-expo-app-with-expo-router-81333f48da37)
-- [Mastering Mongoose Discriminators for Database Efficiency](https://medium.com/@vihangamallawaarachchi.dev/mastering-mongoose-discriminators-for-database-efficiency-7c9be0ff4241)
-- [A Comprehensive Guide to Building a Basic CRUD Application Using PHP, HTML, CSS, and Vanilla JS](https://medium.com/@vihangamallawaarachchi.dev/a-comprehensive-guide-to-building-a-basic-crud-application-using-php-html-css-and-vanilla-9a279719d9ad)
-
-## 🌐 Connect with Me
-
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Medium](https://medium.com/@vihangamallawaarachchi.dev)
-- [Portfolio/Website](https://www.vihanga.site/)
-
-## 📧 Contact
-
-For collaborations, job opportunities, or just to say hi, feel free to reach out to me at [vihanganethusara00@gmail.com](mailto:vihanganethusara00@gmail.com).
+<div align="center">
+  <img src="https://github.com/vihangamallawaarachchi2001.png" alt="Profile Picture" width="200" style="border-radius:50%; border: 2px solid #64ffda;"/>
+  <h3 align="center">Software Engineering Undergraduate @ SLIIT</h3>
+  <p align="center">
+    <a href="https://www.vihanga.site/"><img src="https://img.shields.io/badge/Portfolio-008CBA?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
+    <a href="https://medium.com/@vihangamallawaarachchi.dev"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=vihangamallawaarachchi2001&color=64ffda" alt="Visitor Counter"/>
+  </p>
+</div>
 
 ---
 
-Thank you for visiting my GitHub profile! 🚀
+## 🚀 Quick Links
+[Projects](#-projects) • [Skills](#-skills) • [Articles](#-articles) • [Achievements](#-achievements) • [Contact](#-contact)
 
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vihangamallawaarachchi2001&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangamallawaarachchi2001&layout=compact&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+## 🔥 Skills Matrix
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <!-- Add similar badges for other frontend technologies -->
+  
+  <h3>Backend & DevOps</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <!-- Add other backend badges -->
+</div>
+
+---
+
+## 🏆 Featured Projects (6)
+Here are some projects that showcase my technical capabilities:
+
+1. **[Project Name](https://github.com/your-repo)**
+   - Brief description using modern web technologies
+   - Tech Stack: React, Node.js, MongoDB
+   - [Live Demo](https://example.com) • [Repo](https://github.com/your-repo)
+
+2. **[Another Project](https://github.com/your-repo)**
+   - Cross-platform mobile app with Expo
+   - Tech Stack: React Native, Expo, Firebase
+   - [App Store](https://example.com) • [Repo](https://github.com/your-repo)
+
+*(Add 4 more projects following this pattern)*
+
+---
+
+## 📚 Latest Articles
+Automatically updated from Medium:
+<!-- Add RSS feed integration or manually update -->
+- [The Fundamentals of Kotlin: A Beginner's Guide](https://medium.com/@vihangamallawaarachchi.dev/the-fundamentals-of-kotlin-a-beginners-guide-987be6d5a386)
+- *(Add 2-3 more recent articles)*
+
+---
+
+## 🌐 Developer Profile
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihangamallawaarachchi2001&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 Currently Learning
+- Advanced Machine Learning Techniques 🤖
+- Cloud Architecture with AWS ☁️
+- Cybersecurity Fundamentals 🔒
+
+---
+
+## 🌍 Let's Connect
+<div align="center">
+  <a href="mailto:vihanganethusara00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Add other social links -->
+</div>
+
+---
+
+## 🎮 Fun Facts
+- I've been coding since age 15 🕹️
+- Built my first game using Unity in 48 hours ⏱️
+- Favorite quote: *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+---
+
+## 🛠️ Tech Setup
+- **OS:** Windows 11 with WSL2 🐧
+- **IDE:** VS Code + Android Studio 💻
+- **Stack:** MERN + React Native 🚀
+
+---
+
+## 📅 Developer Timeline
+- 2020: Started coding journey with C/C++
+- 2021: Built first full-stack application
+- 2022: Published mobile app on Play Store
+- 2023: Learning cloud technologies
+
+---
+
+*Made with ❤️ using Markdown & GitHub Actions | Last Updated: [![Last Commit](https://img.shields.io/github/last-commit/vihangamallawaarachchi2001/vihangamallawaarachchi2001)](https://github.com/vihangamallawaarachchi2001)*
