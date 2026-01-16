@@ -1,118 +1,158 @@
-# 👋 Hi, I'm Vihanga Mallawaarachchi
+# 👋 Hi, I’m Vihanga (VK)
 
-<div align="center">
-  <img src="https://github.com/vihangamallawaarachchi2001.png" alt="Profile Picture" width="200" style="border-radius:50%; border: 2px solid #64ffda;"/>
-  <h3 align="center">Software Engineering Undergraduate @ SLIIT</h3>
-  <p align="center">
-    <a href="https://www.vihanga.site/"><img src="https://img.shields.io/badge/Portfolio-008CBA?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
-    <a href="https://medium.com/@vihangamallawaarachchi.dev"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
-    <img src="https://komarev.com/ghpvc/?username=vihangamallawaarachchi2001&color=64ffda" alt="Visitor Counter"/>
-  </p>
-</div>
+### Software Engineer | System Architect | Researcher | Builder of Real Things
+
+I’m a **problem-driven software engineer** who loves designing **robust systems**, **scalable architectures**, and **real-world solutions** — from web platforms to robotics middleware.
+
+I don’t just write code that works.
+I design systems that **survive**, **scale**, and **fail gracefully**.
 
 ---
 
-## 🚀 Quick Links
-[Projects](#-projects) • [Skills](#-skills) • [Articles](#-articles) • [Achievements](#-achievements) • [Contact](#-contact)
+## 🧠 What I Actually Do (Beyond Buzzwords)
+
+* 🏗️ **System Architecture** — designing fault-tolerant, modular, production-ready systems
+* 🤖 **Robotics & Middleware** — assistive robots, intent engines, recovery systems
+* 🔐 **Security & Reliability** — authentication, fault detection, secure logging
+* 🌐 **Full-Stack Engineering** — from APIs to UI with clean separation of concerns
+* 🧪 **Research-Oriented Development** — building with novelty, not copy-paste
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vihangamallawaarachchi2001&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangamallawaarachchi2001&layout=compact&theme=dark&hide_border=true"/>
-</div>
+## 🚀 Current Focus
+
+* 🧠 **A.L.T.R.U.S** — *Adaptive Life-support & Therapeutic Robotic Unit System*
+
+  > A Baymax-inspired assistive robot with:
+
+  * Intent-driven middleware
+  * Fault detection & auto-recovery
+  * Blockchain-backed immutable event logging
+  * Developer CLI & monitoring tools
+
+* 🧩 **Middleware Engineering**
+
+  * Intent arbitration engines
+  * Modular plugin systems
+  * Event-driven architectures
+
+* 🛡️ **Cybersecurity Mastery Path**
+
+  * Deep CS fundamentals
+  * Secure system design
+  * Offensive & defensive security (long-term goal: GOAT level 🐐)
 
 ---
 
-## 🔥 Skills Matrix
-<div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <!-- Add similar badges for other frontend technologies -->
-  
-  <h3>Backend & DevOps</h3>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <!-- Add other backend badges -->
-</div>
+## 🧰 Tech Stack (What I’m Comfortable Using *Properly*)
+
+### Languages
+
+* JavaScript / TypeScript
+* Python
+* Java
+* Bash / Shell
+* Go
+* Rust
+* C++
+* C#
+
+### Frontend
+
+* React
+* Next.js
+* Zustand
+* TanStack
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* REST APIs
+* Django
+* Fast API
+* Nest.js
+* Middleware-based architectures
+* Authentication & session handling
+
+### Systems & DevOps
+
+* Linux (Ubuntu)
+* Docker (working knowledge)
+* CI/CD concepts
+* CLI tool development
+
+### Robotics & Research
+
+* ROS (learning & integration)
+* LiDAR-based navigation concepts
+* Modular robotic software design
+* Fault-tolerant systems
 
 ---
 
-## 🏆 Featured Projects (6)
-Here are some projects that showcase my technical capabilities:
+## 🧩 How I Think (This Is Important)
 
-1. **[Project Name](https://github.com/your-repo)**
-   - Brief description using modern web technologies
-   - Tech Stack: React, Node.js, MongoDB
-   - [Live Demo](https://example.com) • [Repo](https://github.com/your-repo)
+I strongly believe in:
 
-2. **[Another Project](https://github.com/your-repo)**
-   - Cross-platform mobile app with Expo
-   - Tech Stack: React Native, Expo, Firebase
-   - [App Store](https://example.com) • [Repo](https://github.com/your-repo)
+* **Root-cause understanding over quick fixes**
+* **Design first, code second**
+* **Readable systems > clever hacks**
+* **Documentation is part of engineering**
+* **Failure handling is not optional**
 
-*(Add 4 more projects following this pattern)*
+If a system fails silently — it’s broken.
 
 ---
 
-## 📚 Latest Articles
-Automatically updated from Medium:
-<!-- Add RSS feed integration or manually update -->
-- [The Fundamentals of Kotlin: A Beginner's Guide](https://medium.com/@vihangamallawaarachchi.dev/the-fundamentals-of-kotlin-a-beginners-guide-987be6d5a386)
-- *(Add 2-3 more recent articles)*
+## 📂 Featured Work (Pinned Repos 👇)
+
+> Check my pinned repositories to see:
+
+* Production-style frontend architecture
+* Research-backed middleware systems
+* CLI tools & developer utilities
+* Clean codebases with real structure (not tutorial junk)
 
 ---
 
-## 🌐 Developer Profile
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihangamallawaarachchi2001&theme=dark&hide_border=true"/>
-</div>
+## 📈 Experience Snapshot
+
+* 💼 **1.5+ years professional experience**
+* 🧑‍💻 **2.5+ years freelance & independent development**
+* 🛠️ Worked on:
+
+  * Web platforms
+  * Mobile apps
+  * System tools
+  * Robotics research projects
+  * Open-source utilities
 
 ---
 
-## 🎯 Currently Learning
-- Advanced Machine Learning Techniques 🤖
-- Cloud Architecture with AWS ☁️
-- Cybersecurity Fundamentals 🔒
+## 📫 Let’s Connect
+
+* 💼 Open to:
+
+  * Software Engineering roles
+  * Research collaborations
+  * Startup & system design discussions
+
+> If you care about **quality engineering**, **real systems**, and **thinking deeply** — we’ll get along.
 
 ---
 
-## 🌍 Let's Connect
-<div align="center">
-  <a href="mailto:vihanganethusara00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- Add other social links -->
-</div>
+## ⚡ Fun Fact (But Also Serious)
+
+I’m on a long-term mission to become:
+
+> **A world-class engineer with deep computer science + system-level thinking**
+
+No shortcuts. No hype. Just mastery.
 
 ---
 
-## 🎮 Fun Facts
-- I've been coding since age 15 🕹️
-- Built my first game using Unity in 48 hours ⏱️
-- Favorite quote: *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### ⭐ If you like how I think or build
 
----
+Drop a star ⭐ on a repo — it genuinely helps and is appreciated.
 
-## 🛠️ Tech Setup
-- **OS:** Windows 11 with WSL2 🐧
-- **IDE:** VS Code + Android Studio 💻
-- **Stack:** MERN + React Native 🚀
-
----
-
-## 📅 Developer Timeline
-- 2020: Started coding journey with C/C++
-- 2021: Built first full-stack application
-- 2022: Published mobile app on Play Store
-- 2023: Learning cloud technologies
-
----
-
-*Made with ❤️ using Markdown & GitHub Actions | Last Updated: [![Last Commit](https://img.shields.io/github/last-commit/vihangamallawaarachchi2001/vihangamallawaarachchi2001)](https://github.com/vihangamallawaarachchi2001)*
