@@ -4,7 +4,15 @@
 
 I’m a **problem-driven software engineer** who loves designing **robust systems**, **scalable architectures**, and **real-world solutions** — from web platforms to robotics middleware.
 
+I care deeply about:
+
+* **Correctness**
+* **Architecture**
+* **Failure handling**
+* **Long-term maintainability**
+
 I don’t just write code that works.
+I make sure they **keep working under pressure**.
 I design systems that **survive**, **scale**, and **fail gracefully**.
 
 ---
@@ -91,6 +99,13 @@ I design systems that **survive**, **scale**, and **fail gracefully**.
 
 ---
 
+## What I’m Looking For
+
+* Software Engineering roles (Backend / Full-Stack / Systems)
+* Research-driven engineering teams
+* Startups solving hard technical problems
+* Teams that value engineering depth over hype
+
 ## 🧩 How I Think (This Is Important)
 
 I strongly believe in:
@@ -115,6 +130,9 @@ If a system fails silently — it’s broken.
 * Clean codebases with real structure (not tutorial junk)
 
 ---
+
+## 📊 GitHub Stats (Clean & Minimal)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vihangamallawaaracchi2001&show_icons=true&hide_title=true&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangamallawaaracchi2001&layout=compact&hide_border=true" height="150" /> </p>
 
 ## 📈 Experience Snapshot
 
@@ -155,4 +173,5 @@ No shortcuts. No hype. Just mastery.
 ### ⭐ If you like how I think or build
 
 Drop a star ⭐ on a repo — it genuinely helps and is appreciated.
+
 
