@@ -17,7 +17,7 @@ I design systems that **survive**, **scale**, and **fail gracefully**.
 
 ---
 
-## 🧠 What I Actually Do (Beyond Buzzwords)
+## 🧠 What I Actually Do
 
 * 🏗️ **System Architecture** — designing fault-tolerant, modular, production-ready systems
 * 🤖 **Robotics & Middleware** — assistive robots, intent engines, recovery systems
@@ -52,7 +52,7 @@ I design systems that **survive**, **scale**, and **fail gracefully**.
 
 ---
 
-## 🧰 Tech Stack (What I’m Comfortable Using *Properly*)
+## 🧰 Tech Stack (What I’m Comfortable Using *Properly* but open to learn anything new and adopt)
 
 ### Languages
 
@@ -106,7 +106,7 @@ I design systems that **survive**, **scale**, and **fail gracefully**.
 * Startups solving hard technical problems
 * Teams that value engineering depth over hype
 
-## 🧩 How I Think (This Is Important)
+## 🧩 How I Think 
 
 I strongly believe in:
 
